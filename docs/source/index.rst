@@ -3,7 +3,7 @@ Welcome to Lumache's documentation!
 
 
 
-DÜZENLENİYOR .MD DOSYASI DENENİYOR
+DÜZENLEME DENENİYOR
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
