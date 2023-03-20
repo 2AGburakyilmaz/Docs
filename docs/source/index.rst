@@ -3,7 +3,7 @@ Welcome to Lumache's documentation!
 
 
 
-DÜZENLEME DENENİYOR
+DÜZENLEME DENENİYOR22222
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
@@ -23,5 +23,5 @@ Contents
 .. toctree::
 
    usage
-   :caption:ABP:deneme
+   deneme
    api
