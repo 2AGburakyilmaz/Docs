@@ -7,8 +7,7 @@ Installation
 ------------
 
 
-
-DEEENENENNENENENENNENENENNENENEN
+BURAK YILMAZ
 
 To use Lumache, first install it using pip:
 
