@@ -17,7 +17,12 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'recommonmark' # Markdown desteği için ekledim
 ]
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.md': 'markdown',  # .md dosyaları için markdown formatı belirtildi
+}
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
