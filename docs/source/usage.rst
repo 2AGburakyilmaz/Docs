@@ -35,3 +35,11 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+
+.. toctree::
+
+   usage
+   deneme
+   api
+
+
